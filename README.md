@@ -26,3 +26,6 @@ Frontend: React, Vite, Stream Chat React, Tailwind CSS, Radix UI
 Node.js 20+
 
 Accounts & API keys for: GetStream, OpenAI, Tavily
+
+![alt text](<frontview.png>)
+![alt text](<searchingView.png>)
